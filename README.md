@@ -54,3 +54,4 @@ None
 Copyright by smeerws
 
 ReadMe originally written by smeerws (updated by RobinKarlhuber)
+gitignore copied from smeerws
