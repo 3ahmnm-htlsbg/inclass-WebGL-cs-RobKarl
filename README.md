@@ -21,12 +21,7 @@ There are 2 different variations for moving the ball to the positions randomly.
 WebGL incl. reference resolution 960x600 
 
 ### Visuals: 
-<div>
-<img src = "./Screenshots/sketch-moving-ball.jpg" width = "500">
-</div>
-
-<a href="https://3ahmnm-htlsbg.github.io/home-WebGl-cs-smeerws/">Reference WebGL Build for moving ball</a>
-
+/
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions so that I can run the project after cloning it.
 
@@ -34,12 +29,11 @@ WebGL has to be installed.
 
 ### Third party material: 
 (if used: Fonts, Sounds, Music, Graphics, Materials, Code, etc.)
-<a href="https://de.freepik.com/fotos-vektoren-kostenlos/sport">Sport Vektor erstellt von kreativkolors - de.freepik.com</a>
 
 ### Project state: 
 incl. progress in percent
 
-100%
+50%
 
 ### Limitations: 
 None
